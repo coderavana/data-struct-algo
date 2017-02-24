@@ -1,0 +1,23 @@
+
+6.1 - Tree is a non-linear data structure. ADT - Abstract Data Type
+
+6.2 - Glossary
+
+- Depth - Height - Height and Depth of the Tree - 
+- Size of a node : No. of descendents including itself
+- If every node has only one child each, it is called a skew tree.
+
+6.3 - Binary Trees
+
+- A tree is called binary tree if each node has 0 child, 1 child or 2 children.
+
+6.4 - Types of Binary Trees
+
+- Strict Binary Tree -> If each node has exactly 2 or 0 children 
+- Full Binary Tree -> If each node has 2 children and leaf nodes are at the same level
+- Complete Binary Tree -> All leaf nodes are at height h or h-1 and also without any missing no. in the sequence.
+
+6.5 - Properties of Binary Trees
+
+6.6 - Binary Tree Traversals
+
