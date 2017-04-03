@@ -60,7 +60,7 @@ void non_rec_post(node *root)
 		// Case 3 : Moving Up the tree from right
 		
 		if(currNode->right == pre) {
-			cout<<currNode->right<<" ";
+			cout<<currNode->data<<" ";
 			nodeStack.pop();
 		}	
 		
